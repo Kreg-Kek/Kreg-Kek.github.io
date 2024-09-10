@@ -36,6 +36,12 @@
     z-index: 2;
 }
 
+@media (max-width: 800px) {
+    .video-text h1 {
+        font-size: 2rem;
+    }
+}
+
 .video-text h1 {
     font-size: 5rem;
 }
